@@ -30,6 +30,7 @@ o	Replace YOUR_API_KEY_HERE with your actual API key:
 flutter run
 
 	 _**Project Structure**_
+
 lib/
 ├── main.dart                      
 ├── config/
