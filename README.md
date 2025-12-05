@@ -35,6 +35,7 @@ lib/
 ├── main.dart                      
 ├── config/
 │   └── api_config.dart          
+ where to put the API key  
 ├── models/
 │   ├── weather_model.dart        
 │   └── city_model.dart           
